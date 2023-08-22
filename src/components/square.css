@@ -1,0 +1,26 @@
+.square{
+    background-color: white;
+    border: none;
+    border-radius: 15%;
+    box-shadow: 0px 0px 8px #888;
+    width: 5rem;
+    height: 5rem;
+    padding-top: 0px;
+    text-align: center;
+    font-size: 3.7em;
+    font-weight: bold;
+    line-height: 5 rem;
+    margin: 0.5rem;
+}
+
+.X{
+    color: rgb(255, 70, 37);
+}
+
+.O{
+    color: rgb(44, 135, 255);
+}
+
+.square:hover{
+    box-shadow: 0px 0px 15px #888;
+}

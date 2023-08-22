@@ -1,0 +1,14 @@
+*{
+  box-sizing: border-box;
+}
+
+body{
+  margin: 0;
+  background-color: rgb(114, 173, 245);
+  font-family: 'Bungee Spice', cursive;
+  font-family: 'Lilita One', cursive;
+}  
+
+.App{
+  margin-top: 15vh;
+}
